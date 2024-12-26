@@ -15,10 +15,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // .txt dosya tanımlama
     const dosyaListesi = [
-        { dosyaYolu: 'metin/tarih.txt', hedefId: 'tarih' },
-        { dosyaYolu: 'metin/fizyopatoloji.txt', hedefId: 'fizyopatoloji' },
-        { dosyaYolu: 'metin/patogenez.txt', hedefId: 'patogenez' },
-        {dosyaYolu: 'metin/patobiyoloji.txt', hedefId: 'patobiyoloji'}
+        { dosyaYolu: 'odev1.txt', hedefId: 'odev1' },
+        { dosyaYolu: 'odev2.txt', hedefId: 'odev2' },
+        { dosyaYolu: 'odev3.txt', hedefId: 'odev3' },
+        {dosyaYolu: 'odev4.txt', hedefId: 'odev4'},
+        {dosyaYolu: 'odev5.txt', hedefId: 'odev5'}
     ];
 
     function txtDosyasiniYukle(dosyaYolu, hedefId) {
