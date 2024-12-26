@@ -95,6 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                         .replace(/<margin-bottom>(.*?)<\/margin-bottom>/g, '<div class="margin-bottom">$1</div>')
                                         .replace(/<chamois>(.*?)<\/chamois>/g, '<span class="chamois">$1</span>')
                                         .replace(/<redorange>(.*?)<\/redorange>/g, '<span class="redorange">$1</span>')
+                                        .replace(/<center>(.*?)<\/center>/g, '<span class="center">$1</span>')
                                         .replace(/<coralblue>(.*?)<\/coralblue>/g, '<span class="coralblue">$1</span>');
                                     document.getElementById('modal-text').innerHTML = formattedFileData;
                                     document.getElementById('modal-image').src = '';
