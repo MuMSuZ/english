@@ -57,6 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         .replace(/<sup>(.*?)<\/sup>/g, '<span class="sup">$1</span>')
                         .replace(/<sub>(.*?)<\/sub>/g, '<span class="sub">$1</span>')
                         .replace(/<indent>(.*?)<\/indent>/g, '<span class="indent">$1</span>')
+                        .replace(/<center>(.*?)<\/center>/g, '<span class="center">$1</span>')
                         .replace(/<indented-bolum>(.*?)<\/indented-bolum>/g, '<span class="indented-bolum">$1</span>')
                         .replace(/<margin-top>(.*?)<\/margin-top>/g, '<div class="margin-top">$1</div>')
                         .replace(/<margin-alt>(.*?)<\/margin-alt>/g, '<div class="margin-alt">$1</div>')
