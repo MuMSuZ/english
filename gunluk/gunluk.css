@@ -120,6 +120,10 @@ footer {
     margin-top: 20px;
 }
 
+.center {
+    text-indent: center;
+}
+
 .indented-bolum {
     display: block;
     text-indent: 4em;
