@@ -1,6 +1,7 @@
 <bold><redorange>27.12.2024</redorange></bold>
 
 1. Günlük Hayatta Sık Kullanılan Kelimeler
+
 Wallet (Cüzdan)
 Receipt (Fiş)
 Elevator (Asansör)
@@ -8,6 +9,7 @@ Luggage (Bagaj)
 Schedule (Program)
 
 2. İş ve Okul İlgili Kelimeler
+
 Assignment (Ödev)
 Meeting (Toplantı)
 Deadline (Teslim Tarihi)
@@ -15,6 +17,7 @@ Employee (Çalışan)
 Application (Başvuru)
 
 3. Duygular ve Haller (Emotions and States)
+
 Excited (Heyecanlı)
 Nervous (Gergin)
 Curious (Meraklı)
@@ -22,6 +25,7 @@ Exhausted (Bitkin)
 Confident (Kendine Güvenen)
 
 4. Doğa ve Çevre (Nature and Environment)
+
 Mountain (Dağ)
 River (Nehir)
 Desert (Çöl)
@@ -29,6 +33,7 @@ Forest (Orman)
 Ocean (Okyanus)
 
 5. Günlük Fiiller (Common Verbs)
+
 Borrow (Ödünç almak)
 Cancel (İptal etmek)
 Deliver (Teslim etmek)
