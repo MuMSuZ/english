@@ -40,31 +40,31 @@ Deliver (Teslim etmek)
 Improve (Geliştirmek)
 Explain (Açıklamak)
 
-1. Schedule
+1. <chamois>Schedule</chamois>
 Ana Anlam: Program, zamanlama.
 Farklı Anlam: Çizelge, liste.
 Example: The maintenance schedule is on the wall.
 (Bakım çizelgesi duvarda.)
 
-2. Receipt
+2. <chamois>Receipt</chamois>
 Ana Anlam: Fiş, makbuz.
 Farklı Anlam: Teslim alma, alınma.
 Example: Upon receipt of your letter, we will reply immediately.
 (Mektubunuzu aldıktan sonra hemen cevap vereceğiz.)
 
-3. Assignment
+3. <chamois>Assignment</chamois>
 Ana Anlam: Ödev.
 Farklı Anlam: Görev, atanma.
 Example: His assignment to the new project surprised everyone.
 (Yeni projeye atanması herkesi şaşırttı.)
 
-4. Meeting
+4. <chamois>Meeting</chamois>
 Ana Anlam: Toplantı.
 Farklı Anlam: Karşılaşma, buluşma.
 Example: Their meeting was completely unexpected.
 (Onların karşılaşması tamamen beklenmedikti.)
 
-5. Deliver
+5. <chamois>Deliver</chamois>
 Ana Anlam: Teslim etmek.
 Farklı Anlam: Doğum yapmak, bir konuşma veya mesaj sunmak.
 Example: She delivered a powerful speech.
@@ -72,19 +72,19 @@ Example: She delivered a powerful speech.
 Example: The baby was delivered safely.
 (Bebek sağlıklı bir şekilde doğdu.)
 
-6. Curious
+6. <chamois>Curious</chamois>
 Ana Anlam: Meraklı.
 Farklı Anlam: Garip, ilginç.
 Example: That’s a curious fact about history.
 (Bu, tarih hakkında ilginç bir bilgi.)
 
-7. Exhausted
+7. <chamois>Exhausted</chamois>
 Ana Anlam: Bitkin.
 Farklı Anlam: Tükenmiş, kullanılmamış bir şey kalmamış.
 Example: The resources in the area are exhausted.
 (Bölgedeki kaynaklar tükenmiş durumda.)
 
-8. Confident
+8. <chamois>Confident</chamois>
 Ana Anlam: Kendine güvenen.
 Farklı Anlam: Emin, kesin.
 Example: She is confident about her decision.
