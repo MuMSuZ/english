@@ -1,4 +1,4 @@
-Aşağıdaki kelimelerin anlamlarını yazın ve her kelime için bir örnek cümle kurun:
+<bold>Aşağıdaki kelimelerin anlamlarını yazın ve her kelime için bir örnek cümle kurun:</bold>
 
 Schedule
 Receipt
@@ -9,13 +9,13 @@ Curious
 Exhausted
 Confident
 
-Aşağıdaki kelimeler için birer eş anlamlı (synonym) ve zıt anlamlı (antonym) kelime bulun:
+<bold>Aşağıdaki kelimeler için birer eş anlamlı (synonym) ve zıt anlamlı (antonym) kelime bulun:</bold>
 
 Curious
 Confident
 Exhausted
 
-Aşağıdaki cümlelerde boş bırakılan yerlere uygun kelimeleri yazın:
+<bold>Aşağıdaki cümlelerde boş bırakılan yerlere uygun kelimeleri yazın:</bold>
 
 1. I checked my _______ to see if I’m free tomorrow.
 2. She gave me a _______ after I paid for the groceries.
